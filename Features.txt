@@ -1,0 +1,14 @@
+
+1. Core Features
+
+- Add tasks
+- View all tasks
+- Mark Tasks as complete
+= Delete tasks
+
+2. Enhanced Features
+
+- Save tasks to file
+- Load Task from file 
+- Due dates for Tasks
+- Priority levels
