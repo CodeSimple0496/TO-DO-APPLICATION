@@ -1,0 +1,10 @@
+todo_app/
+├── backend/
+│   ├── app.py
+│   ├── task_manager.py
+│   └── requirements.txt
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── README.md
