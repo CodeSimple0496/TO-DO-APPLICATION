@@ -1,14 +1,16 @@
+SIMPLE TODO APPLICATION
+==================================================
 
-1. Core Features
+Menu:
+1. View all todos
+2. View pending todos
+3. View completed todos
+4. Create new todo
+5. Update todo
+6. Delete todo
+7. Mark todo as complete
+8. Show statistics
+9. Save and exit
+0. Exit without saving
 
-- Add tasks
-- View all tasks
-- Mark Tasks as complete
-= Delete tasks
-
-2. Enhanced Features
-
-- Save tasks to file
-- Load Task from file 
-- Due dates for Tasks
-- Priority levels
+Enter your choice (0-9): 
