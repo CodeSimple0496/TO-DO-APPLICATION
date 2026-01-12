@@ -51,7 +51,7 @@ def add_task():
         'id': len(tasks) + 1,
         'description': data['description'],
         'completed': False,
-        'due_data': data.get('due_data'),
+        'due_date': data.get('due_date'),
         'priority': data.get('priority', 'Medium'),
         'created_at': datetime.now().isoformat()
     }
